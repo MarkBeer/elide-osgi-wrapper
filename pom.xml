@@ -170,18 +170,15 @@
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-source-plugin</artifactId>
-                <version>2.10.4</version>
-                <configuration>
-                    <encoding>UTF-8</encoding>
-                </configuration>
-                <execuations>
+                <artifactId>maven-javadoc-plugin</artifactId>
+                <executions>
                     <execution>
+                        <id>attach-javadocs</id>
                         <goals>
-                            <id>attach-javadoc</id>
+                            <goal>jar</goal>
                         </goals>
-                    </execution>  
-                </execuations>
+                    </execution>
+                </executions>
             </plugin>
             
         </plugins>
