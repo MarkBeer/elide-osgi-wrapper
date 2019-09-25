@@ -4,7 +4,7 @@
 
     <groupId>uk.co.infodataserv</groupId>
     <artifactId>elide-osgi-wrapper</artifactId>
-    <version>4.5.1</version>
+    <version>4.5.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <name>Elide: OSGI Wrapper</name>
