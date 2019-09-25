@@ -8,6 +8,27 @@
     <packaging>bundle</packaging>
 
     <name>Elide: OSGI Wrapper</name>
+    <url>https://github.com/MarkBeer/elide-osgi-wrapper/wiki</url>
+   
+    <description>
+        A wrapper around the Elide libary (https://github.com/yahoo/elide) to allow it to be used in an OSGi container 
+    </description>
+
+    
+    <developers>
+        <developer>
+            <name>Mark Beer</name>
+            <email/>
+            <organization/>
+            <roles />
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
