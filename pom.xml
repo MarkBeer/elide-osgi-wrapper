@@ -4,7 +4,7 @@
 
     <groupId>uk.co.infodataserv</groupId>
     <artifactId>elide-osgi-wrapper</artifactId>
-    <version>4.5.1-SNAPSHOT</version>
+    <version>4.5.1</version>
     <packaging>bundle</packaging>
 
     <name>Elide: OSGI Wrapper</name>
@@ -18,8 +18,8 @@
     <developers>
         <developer>
             <name>Mark Beer</name>
-            <email/>
-            <organization/>
+            <email />
+            <organization />
             <roles />
         </developer>
     </developers>
@@ -38,7 +38,7 @@
         <connection>scm:git:git://github.com/MarkBeer/elide-osgi-wrapper.git</connection>
         <developerConnection>scm:git:git@github.com:MarkBeer/elide-osgi-wrapper.git</developerConnection>
         <url> https://github.com/MarkBeer/elide-osgi-wrapper</url>
-        <tag>HEAD</tag>
+        <tag>elide-osgi-wrapper-4.5.1</tag>
     </scm>
 
     <distributionManagement>
